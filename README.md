@@ -152,3 +152,9 @@ Web API process described in Take Home Assignment 2.)
 - Add a **high score table** with initials stored in flash.
 - Add a **piezo buzzer** for sound effects (correct/incorrect, win, etc.)
 - Add an animated splash screen when the device first powers on.
+
+## System Diagram
+![System Diagram](Documentation/system-diagram.png)
+
+## Circuit Diagram
+![Circuit Diagram](Documentation/circuit-diagram.png)
